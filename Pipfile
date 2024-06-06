@@ -9,6 +9,7 @@ djangorestframework = "*"
 djoser = "*"
 djangorestframework-simplejwt = "*"
 psycopg2 = "*"
+django-redis = "*"
 
 [dev-packages]
 
